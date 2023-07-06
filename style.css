@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.tamim_all {
+  margin-top: 25px;
+}
+.tamim {
+  text-transform: uppercase;
+  cursor: url("https://em-content.zobj.net/thumbs/160/google/313/pensive-face_1f614.png"),
+    auto;
+}
